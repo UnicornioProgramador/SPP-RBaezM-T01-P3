@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author Rafael
+ * @author Rubén Daniel Báez Muñiz A01411504
  */
 public class SPPRBaezMT01P1 {
 
