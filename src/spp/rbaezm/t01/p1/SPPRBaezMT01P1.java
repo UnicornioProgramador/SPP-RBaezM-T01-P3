@@ -5,10 +5,11 @@
  */
 package spp.rbaezm.t01.p1;
 import java.util.*;
+//Rubén Daniel Báez Muñiz A01411504 IMT
 
 /**
  *
- * @author Rubén Daniel Báez Muñiz A01411504
+ * @author Rubén 
  */
 public class SPPRBaezMT01P1 {
 
