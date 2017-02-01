@@ -22,18 +22,18 @@ public class SPPRBaezMT01P1 {
       //int = coordenadas, D= Distancia
       //Declarar teclado
       Scanner kb = new Scanner (System.in);
-        System.out.println("Escribe el punto X1");
+        System.out.println("Escriba el punto X1");
         X1 = (int) kb.nextDouble();
-        System.out.println("Escribe el punto X2");
+        System.out.println("Escriba el punto X2");
         X2 = (int) kb.nextDouble();
-        System.out.println("Escribe el punto Y1");
+        System.out.println("Escriba el punto Y1");
         Y1 = (int) kb.nextDouble();
-        System.out.println("Escribe el punto Y2");
+        System.out.println("Escriba el punto Y2");
         Y2 = (int) kb.nextDouble();
         
-        D = Math.sqrt(Math.pow((X1-X2),2) + Math.pow((Y1-Y2),2));
+        D = Math.sqrt(Math.pow((X2-X1),2) + Math.pow((Y2-Y1),2));
         
-        System.out.println("La distancia entre los puntos es: " + D);
+        System.out.println("La distancia entre los puntos es:" + D);
 
     }
     
